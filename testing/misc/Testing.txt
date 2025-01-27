@@ -1,0 +1,59 @@
+Test 1:
+
+	Start date: 04-12-2023
+	End date: 05-12-2023
+	Time interval: 10 seconds
+	Algorithm: Euler-Cromer
+
+	Result:
+Comparing sun
+1607.409840922094 metres out.
+Comparing mercury
+190109080.07803932 metres out.
+Comparing venus
+43040691.90801488 metres out.
+Comparing earth
+36902212.65655383 metres out.
+Comparing moon
+36808654.44069665 metres out.
+Comparing mars
+16247556.437227534 metres out.
+Comparing jupiter
+1528866.088759576 metres out.
+Comparing saturn
+216956.34683452468 metres out.
+Comparing uranus
+126597.59138047071 metres out.
+Comparing neptune
+39277.67724455987 metres out.
+Comparing pluto
+66394.09131295572 metres out.
+
+Test 2:
+	
+	Start date: 04-12-2023
+	End date: 05-12-2023
+	Time interval: 10 seconds
+	Algorithm: Euler-Richardson
+
+Comparing sun
+987.9454929465785 metres out.
+Comparing mercury
+160362779.4058578 metres out.
+Comparing venus
+42877819.73398642 metres out.
+Comparing earth
+22761517.22133875 metres out.
+Comparing moon
+26030518.530903235 metres out.
+Comparing mars
+9605457.436906718 metres out.
+905968.2822110998 metres out.
+Comparing saturn
+247202.7441615211 metres out.
+Comparing uranus
+86194.31682949209 metres out.
+Comparing neptune
+59881.632438590124 metres out.
+Comparing pluto
+60014.007875386436 metres out.
