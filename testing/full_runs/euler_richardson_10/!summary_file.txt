@@ -1,0 +1,22 @@
+deltaT: 10
+startDate: 2023-12-04 00:00:00.0
+endDate: 2023-12-05 00:00:00.0
+algorithm: 3
+
+sun: 0.0386329438165835 metres out.
+mercury: 5277.795180741108 metres out.
+venus: 1411.0156669982625 metres out.
+earth: 775.6766433750192 metres out.
+moon: 6280.027971814288 metres out.
+mars: 316.89403809577897 metres out.
+jupiter: 29.40422921376594 metres out.
+saturn: 7.686151104142101 metres out.
+uranus: 1.9037231413049025 metres out.
+neptune: 0.8230351226397113 metres out.
+pluto: 0.5966769185602899 metres out.
+Average change in energy:6.53355740998358e+26
+Initial energy:6.2110741699822796e+35
+Average change in angular momentum:[-1.56032026e+27  1.28952087e+25  1.68927235e+27]
+Initial angular momentum:[8.22617883e+41 2.60669176e+41 3.13117308e+43]
+Average change in linear momentum:[1.89928081e+17 1.92786817e+17 1.92069219e+17]
+Initial linear momentum:[-4.31359973e+26 -1.27242245e+27  4.19606590e+25]
