@@ -1,10 +1,3 @@
-Charles Proudfoot
-38602598
-Lancaster University
-
-PHYS281 Solar System Project Submission 2023
-
-
 This folder contains the Python files for my PHYS281 project submission. This note is worth reading before using the simulation just in case some direction is required.
 
 To run the simulation, run Main.py. This will create the first menu, where you can choose your time interval, start and end dates, and your choice of approximation algorithm (1 = Euler, 2 = Euler-Cromer, 3 = Euler-Richardson). You can also add a custom object to the system if you feel like it, using the 'Add new object' button. Bear in mind that doing so may affect the accuracy of the results.
